@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.userCard{
+    border: 1px solid gray;
+    font-family: 'Poppins';
+    padding-left: 1%;
+    padding-top: 0.5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    margin-top: 3%;
+    color: #F1C12B;
+    font-weight: 100;
+    background-color: #FEFCF4;
+    border-radius: 4px;
+}
+
+.userCard__text{
+    color: #2558E5;
+    font-weight: 500;
+}
